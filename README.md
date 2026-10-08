@@ -1,6 +1,6 @@
-# Concubine Daughter's Survival Manual — Web Scraping & EPUB Generation
+# Web Scraping & EPUB Generation
 
-A Python-based web scraping and ebook-generation project for **Concubine Daughter's Survival Manual (庶女生存手册 / Shu Nv Sheng Cun Shou Ce)** by **Yu Jing Peng Xiang**.
+A Python-based web scraping and ebook-generation project using the webnovel **Concubine Daughter's Survival Manual (庶女生存手册 / Shu Nv Sheng Cun Shou Ce)** by **Yu Jing Peng Xiang** as a placeholder/example.
 
 The project demonstrates how to discover chapter URLs from a novel series page, extract and clean chapter content, validate the resulting dataset, and transform the structured chapter data into a properly formatted EPUB and PDF ebook with a table of contents.
 
