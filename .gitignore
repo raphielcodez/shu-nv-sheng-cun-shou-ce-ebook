@@ -1,0 +1,15 @@
+.venv/
+pycache/
+*.pyc
+
+# Scraped novel content
+data/chapters/
+data/chapters.json
+
+# Generated ebooks
+output/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
